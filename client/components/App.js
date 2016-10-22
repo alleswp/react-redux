@@ -4,7 +4,7 @@ export default () => {
   return (
     <div>
       <h1>Hello from React</h1>
-      <p>WTF</p>
+      <p>WTF This is Great</p>
     </div>
   );
 }
